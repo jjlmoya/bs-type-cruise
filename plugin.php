@@ -163,60 +163,60 @@ bs_cruise_create_custom_params();
 
 function bs_cruise_distance_register()
 {
-	bs_plugin_register('distance');
+	bs_cruise_register('distance');
 }
 
 function bs_cruise_distance_callback()
 {
-	bs_plugin_callback('distance');
+	bs_cruise_callback('distance');
 }
 
 function bs_cruise_days_register()
 {
-	bs_plugin_register('days');
+	bs_cruise_register('days');
 }
 
 function bs_cruise_days_callback()
 {
-	bs_plugin_callback('days');
+	bs_cruise_callback('days');
 }
 
 function bs_cruise_price_register()
 {
-	bs_plugin_register('price');
+	bs_cruise_register('price');
 }
 
 function bs_cruise_price_callback()
 {
-	bs_plugin_callback('price');
+	bs_cruise_callback('price');
 }
 
 function bs_cruise_affiliateLink_register()
 {
-	bs_plugin_register('affiliateLink');
+	bs_cruise_register('affiliateLink');
 }
 
 function bs_cruise_affiliateLink_callback()
 {
-	bs_plugin_callback('affiliateLink');
+	bs_cruise_callback('affiliateLink');
 }
 
 function bs_cruise_affiliateCTA_register()
 {
-	bs_plugin_register('affiliateCTA');
+	bs_cruise_register('affiliateCTA');
 }
 
 function bs_cruise_affiliateCTA_callback()
 {
-	bs_plugin_callback('affiliateCTA');
+	bs_cruise_callback('affiliateCTA');
 }
 
 function bs_cruise_company_register()
 {
-	bs_plugin_register('company');
+	bs_cruise_register('company');
 }
 
 function bs_cruise_company_callback()
 {
-	bs_plugin_callback('company');
+	bs_cruise_callback('company');
 }
